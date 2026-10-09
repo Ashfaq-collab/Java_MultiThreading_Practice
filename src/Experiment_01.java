@@ -1,4 +1,4 @@
-public class Main {
+public class Experiment_01 {
     public static void main(String[] args) {
 
         Thread t = new Thread(() -> {
