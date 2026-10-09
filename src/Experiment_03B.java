@@ -1,7 +1,5 @@
 public class Experiment_03B {
 
-    public class ThreadLifecycleDemo {
-
         public static void main(String[] args)
                 throws InterruptedException {
 
@@ -21,6 +19,4 @@ public class Experiment_03B {
 
             t.join();
         }
-    }
-
 }
