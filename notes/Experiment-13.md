@@ -5,7 +5,6 @@
 `ConcurrentHashMap` is a thread-safe map designed for concurrent access by multiple threads.
 
 ## Key points
-
 - A map stores data as key-value pairs.
 - Keys are unique; inserting an existing key replaces its value.
 - `HashMap` does not provide thread safety for concurrent modifications.
