@@ -1,4 +1,4 @@
-# Experiment 11 — Callable, Future, and Returning Results
+# Experiment 10 — Callable, Future, and Returning Results
 
 ## Objective
 Learn how to execute a task that returns a value and retrieve that value from another thread.
